@@ -7,7 +7,7 @@ This project is a parallel file encryptor and decryptor implemented in C++. It a
 To use this program, follow these steps:
 
 1. Clone the repository to your local machine.
-2. Navigate to the project directory: `/c:/C++/Applied OS/Parallel File Encryptor Decryptor`.
+2. Navigate to the project directory.
 3. Compile the program by running the following command:
 
     ```
