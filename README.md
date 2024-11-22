@@ -1,4 +1,4 @@
-# Parallel File Encryptor Decryptor
+# Parallel File Encryptor Decryptor - By Vaishnavraj
 
 This project is a parallel file encryptor and decryptor implemented in C++. It allows you to encrypt and decrypt files using multiple threads for improved performance.
 
